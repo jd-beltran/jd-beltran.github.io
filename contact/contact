@@ -1,0 +1,79 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head profile="http://www.w3.org/2005/10/profile">
+<title>JD Beltran</title>
+<link rel="icon" href="http://jimcampbell.tv/icon.png" type="image/png" />
+<link rel="shortcut icon" href="http://jimcampbell.tv/icon.png" type="image/png" />
+<link href="../styles.css" rel="stylesheet" type="text/css">
+<link rel="alternate" type="application/rss+xml" title="JD Beltran: News" href="../news.xml">
+<style type="text/css">
+</style>
+</head>
+<body bgcolor="#090909">
+<div id="Background">
+    <!-- HEADER  Make sure to udate those header pointers -->
+    <div id="Header">
+        <img src="../images/header.png" />
+  </div>
+  <div id="NavBar">
+        <a href="../index.html" class="current">PORTFOLIO</a>
+        <a href="../news/news.html">NEWS</a>
+        <a href="../reviews/reviews.html">REVIEWS</a>
+        <a href="cv/">CV</a>
+        <a href="contact/">CONTACT</a>
+        <a href="links/">LINKS</a>
+    </div>
+    
+     <div id="Header Title">
+      <img src="header_news.png" align="right" /> </div>
+    
+    <!-- HEADER END -->
+    <div id="Main"> 
+    	<!-- Make sure to update the title and link pointers -->
+      
+      
+       
+   	<h1>Contacts</h1>
+        <table>
+            <tr>
+                <td width="300"><h2>HOSFELT GALLERY</h2>
+                <div id="SmallIndent">
+                <p><a href="http://hosfeltgallery.com" target="_blank">hosfeltgallery.com</a><br />
+                Email: <a href="mailto:infosf@hosfeltgallery.com">infosf@hosfeltgallery.com</a><br />
+                Phone: (415) 495 - 5454<br />
+                Address: 260 Utah Street<br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;San Francisco, CA  94103</p>
+    
+                <p>Email: <a href="mailto:infony@hosfeltgallery.com">infony@hosfeltgallery.com</a><br />
+                Phone: (212) 563 - 5454<br />
+                Address: 531 West 36th Street<br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New York, NY  100018</p>
+                </div>
+            
+                <h2>BRYCE WOLKOWITZ GALLERY</h2>
+                <div id="SmallIndent">
+                <p><a href="http://www.brycewolkowitz.com" target="_blank">brycewolkowitz.com</a><br />
+                Email: <a href="mailto:info@brycewolkowitz.com">info@brycewolkowitz.com</a><br />
+                Phone: (212) 243 - 8830<br />
+                Address: 505 West 24th Street<br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;New York, NY 10011</p>
+                </div>
+            
+                <h2>JIM CAMPBELL</h2>
+                <div id="SmallIndent">
+                <p>Email: <a href="mailto:info@jimcampbell.tv">info@jimcampbell.tv</a><br />
+                Phone: (415) 626 - 2617<br />
+                Address: 610 22nd Street, Suite 316<br />
+                &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;San Francisco, CA 94107<br />
+                <br />
+                Web Design By: <a href="mailto:eroe@jimcampbell.tv">Elliot Roe</a>
+                </p>
+                </div>
+        		
+                <td width="800" align="right"><img src="contact.jpg" /></td>
+            </tr>
+        </table>
+</div>
+</body>
+</html>
